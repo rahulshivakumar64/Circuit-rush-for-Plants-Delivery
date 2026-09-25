@@ -1,0 +1,6 @@
+{
+  "name": "CircuitRush - Quick Electronics & Smart Gardening",
+  "description": "Ultra-fast delivery for electronics, DIY project kits, indoor plants, planters, and IoT smart gardening essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
